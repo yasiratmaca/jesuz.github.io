@@ -63,5 +63,5 @@ Second Term
 - [ ] Contact the media
 
 
-<style>p{color:red;}</style>
+
 *foo*
