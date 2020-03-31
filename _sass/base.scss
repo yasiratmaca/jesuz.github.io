@@ -73,8 +73,13 @@ input[type=submit] { font-size: $base-font-size;  font-family: $base-font-family
 input[type=submit]:hover { color: var(--background-color); background-color: var(--base-color); }
 *:focus { outline: none; }
 textarea { vertical-align: top; }
+
+/**
+ * Custom
+ */
 table { border-collapse: collapse; }
 table, th, td { border: 1px solid #fff7f7; }
+blockquote { width: 60%; font-style: italic; padding: 1.2em 30px 1.2em 75px; border-left: 8px solid #78C0A8; line-height: 1.6; background: #EDEDED;}
 
 /**
  * Code and syntax highlighting
