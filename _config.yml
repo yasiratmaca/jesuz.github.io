@@ -1,6 +1,9 @@
 # Example Site settings
 
 #google_analytics: UA-NNNNNNNN-N
+title: 'yasiratmaca.github.io'
+description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+url: "https://yasiratmaca.github.io"
 
 header_pages:
   - index.md
@@ -11,7 +14,9 @@ footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
+
 plugins:
   - jekyll-seo-tag
-
-theme: jekyll-theme-console
