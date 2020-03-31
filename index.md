@@ -1,5 +1,5 @@
 ---
-title: Yasir atmaca
+title: /
 layout: home
 permalink: /
 ---
