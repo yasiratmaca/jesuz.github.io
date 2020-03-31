@@ -18,7 +18,33 @@ A*cat*meow
 - Fourth item
 
 ***
-
 ---
 
 I love supporting the **[EFF](https://eff.org)**.
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
