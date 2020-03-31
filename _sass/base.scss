@@ -73,6 +73,7 @@ input[type=submit] { font-size: $base-font-size;  font-family: $base-font-family
 input[type=submit]:hover { color: var(--background-color); background-color: var(--base-color); }
 *:focus { outline: none; }
 textarea { vertical-align: top; }
+table, th, td { border: 1px solid #fff7f7; }
 
 /**
  * Code and syntax highlighting
