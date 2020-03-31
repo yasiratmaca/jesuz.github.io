@@ -41,7 +41,8 @@ footer { margin-bottom: 20px; }
 /**
  * Highlight/Markup
  */
-::selection { background: var(--selection-background);  color: var(--selection-text); }
+// ::selection { background: var(--selection-background);  color: var(--selection-text); }
+::selection { background: #161617;  color: var(--selection-text); }
 ::-moz-selection { background: var(--selection-background);  color: var(--selection-text); }
 
 /**
