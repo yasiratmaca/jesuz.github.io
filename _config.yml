@@ -8,6 +8,7 @@ url: "https://yasiratmaca.github.io"
 header_pages:
   - index.md
   - contact.md
+  - categories.md
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
